@@ -17,7 +17,6 @@ Redux : "",
 Jest : "",
 NEXT.js : "",
 MongoDB : "",
-GraphQL : "",
-Node.js : "",
+GraphQL : ""
 }
 
