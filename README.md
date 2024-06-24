@@ -1,22 +1,59 @@
-- 👋 Hi, I’m @alitcaglar
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on web developing.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! I'm Ali Turabi Caglar 👋
 
-const roadToWebDevelopingOfFuture = {
-HTML : "finished",
-CSS : "finished",
-JS : "finished",
-tailwind.css : "finished",
-React : "on-progress",
-TypeScript : "",
-Redux : "",
-Jest : "",
-NEXT.js : "",
-MongoDB : "",
-GraphQL : ""
-}
+I'm Ali, a **Full-Stack Next.js(React) Developer** with a background in nuclear engineering, currently working as a Desalination Plant Engineer. I'm passionate about building modern, scalable web applications and enjoy working with both front-end and back-end technologies. I'm always looking to learn and implement the latest advancements in web development.
 
+## About Me
+
+- 💻 Eagerly seeking opportunities to transition into a full-time role as a **Full-Stack Developer**.
+- 🌱 Currently focused on learning and improving: **Full Stack Next.js developing** **Web development trends of next years**
+- 💼 Professional proficiency in English and Russian, and Turkish as my native language.
+- 📚 I’m constantly seeking to learn new things and stay up-to-date with the latest tech trends.
+
+//TODO add linkedin link
+
+- 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/example/) or via [Email](mailto:aliturabicaglar@gmail.com).
+- ⚡ I love coding with a good cup of tea and some chill-out electronic music.
+
+## Technologies I Use
+
+### Front-End
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **React**
+- **Next.js**
+- **React Hook Form**
+- **Tailwind CSS**
+- **shadcn/ui**
+- **Redux Toolkit**
+
+### Back-End
+
+- **Node.js**
+- **Next.js API Routes**
+- **MongoDB**
+- **MongoDB Atlas**
+- **REST API**
+
+### Tools & Services
+
+- **Git**
+- **GitHub**
+- **npm**
+- **Cloudinary**
+- **Zod**
+- **TypeScript**
+- **Mailgun** etc.
+
+## Projects
+
+//TODO add projects
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/example](https://www.linkedin.com/in/example/)
+- Email: [aliturabicaglar@gmail.com](mailto:aliturabicaglar@gmail.com)
+- Whatsapp : +90 538 845 69 10
+
+Thanks for visiting my profile! Keep coding! 🚀
