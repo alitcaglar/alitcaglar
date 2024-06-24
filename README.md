@@ -5,7 +5,7 @@ I'm Ali, a **Full-Stack Next.js(React) Developer** with a background in nuclear 
 ## About Me
 
 - 💻 Eagerly seeking opportunities to transition into a full-time role as a **Full-Stack Developer**.
-- 🌱 Currently focused on learning and improving: **Full Stack Next.js developing** **Web development trends of next years**
+- 🌱 Currently focused on learning and improving: **Full Stack Next.js** and **Web development trends of next years**
 - 💼 Professional proficiency in English and Russian, and Turkish as my native language.
 - 📚 I’m constantly seeking to learn new things and stay up-to-date with the latest tech trends.
 
