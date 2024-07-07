@@ -11,7 +11,7 @@ I'm Ali, a **Full-Stack Next.js(React) Developer** with a background in nuclear 
 
 //TODO add linkedin link
 
-- 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/example/) or via [Email](mailto:aliturabicaglar@gmail.com).
+- 💬 Feel free to reach out to me on [AliTurabiCaglar PersonalPage](https://atc-personal-page0-git-main5-alitcaglars-projects.vercel.app/) or via [Email](mailto:aliturabicaglar@gmail.com).
 - ⚡ I love coding with a good cup of tea and some chill-out electronic music.
 
 ## Technologies I Use
@@ -54,7 +54,7 @@ I'm Ali, a **Full-Stack Next.js(React) Developer** with a background in nuclear 
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/example](https://www.linkedin.com/in/example/)
+- LinkedIn: [AliTurabiCaglar PersonalPage](https://atc-personal-page0-git-main5-alitcaglars-projects.vercel.app/)
 - Email: [aliturabicaglar@gmail.com](mailto:aliturabicaglar@gmail.com)
 - Whatsapp : +90 538 845 69 10
 
