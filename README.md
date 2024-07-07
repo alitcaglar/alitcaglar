@@ -32,6 +32,8 @@ I'm Ali, a **Full-Stack Next.js(React) Developer** with a background in nuclear 
 
 - **Node.js**
 - **Next.js API Routes**
+- **Supabase**
+- **Supabase Auth**
 - **MongoDB**
 - **MongoDB Atlas**
 - **REST API**
