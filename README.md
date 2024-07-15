@@ -10,7 +10,7 @@ I'm Ali, a **Full-Stack Next.js(React) Developer** with a background in nuclear 
 - 📚 I’m constantly seeking to learn new things and stay up-to-date with the latest tech trends.
 
 
-- 💬 Feel free to reach out to me on [AliTurabiCaglar PersonalPage](https://atc-personal-page0-git-main5-alitcaglars-projects.vercel.app/) or via [Email](mailto:aliturabicaglar@gmail.com).
+- 💬 Feel free to reach out to me on [AliTurabiCaglar PersonalPage](https://atc-personal-page.netlify.app/) or via [Email](mailto:aliturabicaglar@gmail.com).
 - ⚡ I love coding with a good cup of tea and some chill-out electronic music.
 
 ## Technologies I Use
