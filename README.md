@@ -53,7 +53,7 @@ I'm Ali, a **Full-Stack Next.js(React) Developer** with a background in nuclear 
 
 ## Contact
 
-- Personal Page: [AliTurabiCaglar PersonalPage](https://atc-personal-page0-git-main5-alitcaglars-projects.vercel.app/)
+- Personal Page: [AliTurabiCaglar PersonalPage](https://atc-personal-page.netlify.app/)
 - Email: [aliturabicaglar@gmail.com](mailto:aliturabicaglar@gmail.com)
 - Whatsapp : +90 538 845 69 10
 
