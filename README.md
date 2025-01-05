@@ -1,4 +1,4 @@
-# Hi there! I'm Ali Turabi Caglar 👋
+# Hi there! I'm Ali Caglar 👋
 
 I'm Ali, a **Full-Stack Next.js(React) Developer** with a background in nuclear engineering, currently working as a Desalination Plant Engineer. I'm passionate about building modern, scalable web applications and enjoy working with both front-end and back-end technologies. I'm always looking to learn and implement the latest advancements in web development.
 
